@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHTTPClientTester", "ConsoleHTTPClientTester\ConsoleHTTPClientTester.csproj", "{3D6A2CC4-BADC-4F69-BA83-6290620C8336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETHttpClientTester", "ASPNETHttpClientTester\ASPNETHttpClientTester.csproj", "{3E0F46A8-2294-4ACD-B20B-89EA07A9C009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6A2CC4-BADC-4F69-BA83-6290620C8336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6A2CC4-BADC-4F69-BA83-6290620C8336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6A2CC4-BADC-4F69-BA83-6290620C8336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6A2CC4-BADC-4F69-BA83-6290620C8336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0F46A8-2294-4ACD-B20B-89EA07A9C009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0F46A8-2294-4ACD-B20B-89EA07A9C009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0F46A8-2294-4ACD-B20B-89EA07A9C009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0F46A8-2294-4ACD-B20B-89EA07A9C009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB86DF2-570B-42F0-A006-81D2298F4078}
+	EndGlobalSection
+EndGlobal
